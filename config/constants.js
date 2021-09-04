@@ -1,0 +1,1 @@
+export const MONGO_URL = "mongodb+srv://dbAdmin:EdomR1xxIRhUHTuG@cluster1-development.0gk86.mongodb.net/server-ship-game?authSource=admin&replicaSet=atlas-eft3ul-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true"
